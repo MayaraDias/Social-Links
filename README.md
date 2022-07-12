@@ -64,7 +64,7 @@ Mas, como uma forma de desafio, inclui no projeto o modo escuro, sendo ativado p
 * Hypertexto.
 
 
-:pushpin:  projeto final pode ser acessado em: 
+:pushpin:  projeto final pode ser acessado em: https://mayaradias.github.io/Social-Links
 
 
 ## Referências
